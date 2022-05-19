@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DatabaseViewer", "DatabaseViewer\DatabaseViewer.vbproj", "{4D174050-2D4D-4EC0-84C1-5CB7F8E6E88B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D174050-2D4D-4EC0-84C1-5CB7F8E6E88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D174050-2D4D-4EC0-84C1-5CB7F8E6E88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D174050-2D4D-4EC0-84C1-5CB7F8E6E88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D174050-2D4D-4EC0-84C1-5CB7F8E6E88B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA82D8D0-B641-46FD-8950-F36035C6DD1C}
+	EndGlobalSection
+EndGlobal
